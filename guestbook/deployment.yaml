@@ -16,4 +16,4 @@ spec:
         - name: guestbook
           image: "docker.io/bitnami/nginx:latest"
           ports:
-            - containerPort: 3000
+            - containerPort: 80
